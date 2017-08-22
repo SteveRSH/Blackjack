@@ -20,3 +20,5 @@
   assert(["8", "7", "A", "A"], 17);
   assert(["K", "A"], 21);
 })();
+
+// )() removed from above closing bracket and semi colon
